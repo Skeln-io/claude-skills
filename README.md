@@ -1,6 +1,6 @@
 # Claude Skills — Your AI Development System
 
-A complete Claude Code working system: skills, hooks, specialist agents, and CI templates. Fork this repo, run `/setup`, and get a fully scaffolded Claude Code environment for your project.
+A complete Claude Code working system: skills, hooks, specialist agents, and CI templates. **Use the green "Use this template" button** to create your own copy, then run `/setup` to scaffold everything into your project.
 
 ## Prerequisites
 
@@ -11,10 +11,11 @@ A complete Claude Code working system: skills, hooks, specialist agents, and CI 
 
 ## Quick Start
 
-1. Fork or clone this repo
-2. Open your project in Claude Code
-3. Run `/setup`
-4. Follow the prompts — it scaffolds skills, hooks, and config into your project
+1. Click **"Use this template"** → **"Create a new repository"** (top of this page)
+2. Clone your new repo locally
+3. Open your project in Claude Code
+4. Run `/setup`
+5. Follow the prompts — it scaffolds skills, hooks, and config into your project
 
 ## Skills
 
