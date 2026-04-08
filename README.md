@@ -1,6 +1,6 @@
-# Claude Skills: A Complete AI Development System
+# Skillkit: A Complete AI Development System
 
-Claude Skills is an open-source, template repo that gives you a fully configured Claude Code working environment in one command. Skills, hooks, specialist agents, CI templates, and a personal project manager — scaffolded into your project and ready to use.
+Skillkit is an open-source, template repo that gives you a fully configured Claude Code working environment in one command. Skills, hooks, specialist agents, CI templates, and a personal project manager — scaffolded into your project and ready to use.
 
 ## Why This Exists
 
@@ -29,7 +29,7 @@ This repo replaces discipline with automation. It's the system that runs behind 
 ### CLI (one command)
 
 ```bash
-gh repo create my-project --template Skeln-io/claude-skills --public --clone && cd my-project && claude
+gh repo create my-project --template Skeln-io/skillkit --public --clone && cd my-project && claude
 ```
 
 Then run `/setup` when Claude Code opens. It asks 2-3 questions and scaffolds everything.
