@@ -11,6 +11,16 @@ A complete Claude Code working system: skills, hooks, specialist agents, and CI 
 
 ## Quick Start
 
+### CLI (one command)
+
+```bash
+gh repo create my-project --template Skeln-io/claude-skills --public --clone && cd my-project && claude
+```
+
+Then run `/setup` when Claude Code opens.
+
+### GitHub UI
+
 1. Click **"Use this template"** → **"Create a new repository"** (top of this page)
 2. Clone your new repo locally
 3. Open your project in Claude Code
